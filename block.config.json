@@ -1,0 +1,22 @@
+{
+  "name": "todoContainer",
+  "type": "ui-container",
+  "source": {
+    "https": "https://github.com/grgshiji/2Aug.git",
+    "ssh": "git@github.com:grgshiji/2Aug.git",
+    "branch": "block_todoContainer"
+  },
+  "language": "js",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "3yZi8OWtIt29rizefcgsi",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "CzqN6U0ocLzCLe9ybLDqR"
+  ]
+}
