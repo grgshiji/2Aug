@@ -2,8 +2,8 @@
   "name": "2Aug",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/2Aug.git",
+    "ssh": "git@github.com:grgshiji/2Aug.git",
     "branch": "block_2Aug"
   },
   "dependencies": {
