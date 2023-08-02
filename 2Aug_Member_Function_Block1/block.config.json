@@ -1,0 +1,20 @@
+{
+  "blockId": "5tYT53PF2kF2vWrL29l0C",
+  "name": "2Aug_Member_Function_Block1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/2Aug.git",
+    "ssh": "git@github.com:grgshiji/2Aug.git",
+    "branch": "block_2Aug_Member_Function_Block1"
+  },
+  "parentBlockIDs": [
+    "CzqN6U0ocLzCLe9ybLDqR"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
